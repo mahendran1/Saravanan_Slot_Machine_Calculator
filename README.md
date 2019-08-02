@@ -1,1 +1,1 @@
-# Saravanan_Slot_Machine_Calculator
+# Slot_Machine_Calculator
